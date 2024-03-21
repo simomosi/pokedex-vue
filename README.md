@@ -1,10 +1,10 @@
 # pokedex-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a Pokédex made for fun to play with vue.js  
 
-## Recommended IDE Setup
+Thanks to [pokeapi](https://pokeapi.co/) for their free open-source RESTful API.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![Screenshot](./doc/screenshot.png)
 
 ## Customize configuration
 
